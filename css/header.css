@@ -1,0 +1,30 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  height: 50px;
+  margin: 20px;
+  background-color: rgba(237, 237, 237, 0.1);
+}
+
+.menu img {
+  width: 50px;
+  cursor: pointer;
+}
+
+.gameTitle {
+  justify-content: center;
+  text-align: center;
+  padding-left: 120px;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.icons {
+  display: flex;
+}
+
+.icons img {
+  width: 50px;
+  padding-right: 10px;
+  cursor: pointer;
+}

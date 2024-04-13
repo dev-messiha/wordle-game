@@ -1,0 +1,76 @@
+footer {
+  width: 100vw;
+  position: fixed;
+  bottom: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-self: center;
+  align-items: center;
+  gap: 7px;
+}
+
+.keyborad-top {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 7px;
+}
+
+.keyborad-middle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 7px;
+}
+
+.keyborad-bottom {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 7px;
+}
+
+.keyborad-1 {
+  display: flex;
+  justify-self: center;
+  align-items: center;
+  gap: 7px;
+}
+
+.key-block {
+  width: 60px;
+  height: 90px;
+  border-radius: 10px;
+  text-align: center;
+  align-content: center;
+  background-color: rgba(0, 0, 0, 0.1);
+  font-size: 22px;
+  font-weight: 900;
+  cursor: pointer;
+}
+
+.backspace {
+  width: 100px;
+  height: 90px;
+  background-color: rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  text-align: center;
+  align-content: center;
+  cursor: pointer;
+}
+
+.backspace img {
+  width: 40px;
+  height: 40px;
+}
+
+.enter {
+  width: 100px;
+  height: 90px;
+  background-color: rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  font-weight: 900;
+  text-align: center;
+  align-content: center;
+  cursor: pointer;
+}
